@@ -1,0 +1,106 @@
+.myaso {
+ 
+ margin-top: -30px;
+ font-family: 'Open Sans', sans-serif;
+ 
+}
+
+.hero2 {
+   font-weight: 500;
+   padding-top: 30px;
+   font-size: 25px;
+   font-family: 'Open Sans', sans-serif;
+   line-height: 1.5;
+}
+
+.hero3 {
+    font-weight: 500;
+    /* padding-top: 20px; */
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+}
+
+.mangal {
+    font-weight: 500;
+    color: #000;
+    padding-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    text-align: center; /* Дополнительно для выравнивания текста по центру */
+    font-family: 'Open Sans', sans-serif;
+    margin: 0; /* Убрать внешние отступы, если они есть */
+}
+
+
+.zvazok {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+
+}
+
+.novn {
+   
+    
+    margin-top: -30px;
+}
+
+.nomer {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.prava {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.vidguk {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.firsttitle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+
+@media screen and (max-width: 960px) {
+    .novn {
+   
+    
+        margin-top: -10px;
+    }
+}
+
+
+.mangalica {
+   padding-bottom: 40px;
+    font-size: 40px;
+}
+
+
+.linemangal {
+
+
+width: 100%;
+    max-width: 240px;
+    height: 1px;
+    background-color: #000;
+    margin-bottom: 24px;
+}
